@@ -2,6 +2,7 @@
 ## You Tube Channel
 - https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g
 - https://www.youtube.com/watch?v=U6-X_QOwPcs&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-
+- https://www.youtube.com/playlist?list=PLiQ766zSC5jPIKibTa5qtXpwgwEBalDV4
 
 ## Facebook
 - https://leetcode.com/discuss/interview-experience/488471/Facebook-or-E4-or-Jan-2020-Offer
