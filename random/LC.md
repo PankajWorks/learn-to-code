@@ -42,6 +42,8 @@
 ## Github
 - https://github.com/williamfiset/Algorithms
 - https://github.com/aforarup/interview
+- https://github.com/cherryljr/LintCode
+- Tushar's :  https://github.com/mission-peace/interview
 
 ## Other links
 - https://twitter.com/mxcl/status/608682016205344768
