@@ -39,6 +39,9 @@
 - https://leetcode.com/tag/graph/
 - https://github.com/aforarup/interview
 
+## Github
+- https://github.com/williamfiset/Algorithms
+- https://github.com/aforarup/interview
 
 ## Other links
 - https://twitter.com/mxcl/status/608682016205344768
