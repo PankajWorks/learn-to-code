@@ -586,3 +586,9 @@ func broadcastMsg(msg string, addrs []string) error {
     return nil
 }
 ```
+
+## Reference URLS
+- Lexical scanning with Go [video](http://www.youtube.com/watch?v=HxaD_trXwRE)
+- Concurrency is not parallelism [video](http://vimeo.com/49718712)
+- Go concurrency patterns [video](http://www.youtube.com/watch?v=f6kdp27TYZs)
+- Advanced Go concurrency patterns [video](http://www.youtube.com/watch?v=QDDwwePbDtw)
