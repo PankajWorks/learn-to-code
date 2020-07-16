@@ -306,6 +306,7 @@ func (g *Gopher) WriteToWriter(f io.Writer) (int64, error) {
 ```
 
 ### 13. APIs : Keep independent packages independent
+
 ```go
 import (
     "golang.org/x/talks/content/2013/bestpractices/funcdraw/drawer"
