@@ -1,3 +1,12 @@
+## Advantages of go
+
+- Golang is blazing fast
+- Golang is built for concurrency : Golang comes with goroutines
+- Golang is a statically typed language : Lesser mistakes.
+- Go compiles the program into a single binary : You don’t have to worry about its dependencies, because all of them are bundled together.
+- Golang is an opinionated language : This means there’s less variation on how people should write code in Golang, which eventually implies code consistency, readability, and maintainability. For a big and complex project, this is very helpful.
+ 
+
 ## Anonymous structs
 > Grouped globals
 ```go
